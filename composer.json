@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "discommand2/plugin-clickup",
   "description": "Integrates ClickUp project management functionalities.",
+=======
+  "name": "discommand2/plugin-template",
+  "description": "A starter template for developing new plugins, ensuring consistency and ease of development.",
+>>>>>>> upstream/main
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -18,7 +23,11 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
+<<<<<<< HEAD
       "Discommand2\\Plugins\\ClickUp\\": "src/"
+=======
+      "Discommand2\\Plugins\\Template\\": "src/"
+>>>>>>> upstream/main
     }
   },
   "minimum-stability": "dev",
